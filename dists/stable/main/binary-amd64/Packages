@@ -1,0 +1,20 @@
+Package: nuvia
+Architecture: amd64
+Version: 2.0.0+154.19
+Priority: optional
+Section: net
+Maintainer: NovaSoft Technologies <hola@nuviasoftware.com>
+Installed-Size: 121368
+Depends: libatk1.0-0 (>= 2.7.91), libc6 (>= 2.34), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.14.0), libdrm2 (>= 2.4.75), libepoxy0 (>= 1.0), libfontconfig1 (>= 2.12.6), libgbm1 (>= 7.11~1), libgcc-s1 (>= 3.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.90), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.6.0), libgtk-3-0 (>= 3.21.4), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.29.4), libpangocairo-1.0-0 (>= 1.14.0), libsecret-1-0 (>= 0.7), libstdc++6 (>= 11), libx11-6, libxcomposite1 (>= 1:0.4.5), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxrandr2, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, pulseaudio-utils, ffmpeg
+Recommends: geoclue-2.0
+Filename: pool/main/n/nuvia/nuvia_2.0.0+154.19_amd64.deb
+Size: 53107946
+MD5sum: 4e5f08ba92d72163f0a1c22c5b77d08e
+SHA1: cf3b5050cd97f94d5bae31bcbde00ae6deab4b3c
+SHA256: e1883b417ff9bd42f64ca6b52e359a01ce7fd049306d096cbd97335df08d4ea3
+SHA512: 6e0aa4f38368a69ac4095ff47e429d83f9a828860ae406fa48e0988af399c86ab6c4a959cb12c579e35bab22a4a6819e453c68386bb8cdb78f83158f8803c370
+Homepage: https://nuviasoftware.com
+Description: Nuvia, more than dating
+ Meet people near you, chat with photos, videos and voice notes, call by
+ voice or video, plan dates and send gifts from the Marketplace.
+
