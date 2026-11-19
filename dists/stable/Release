@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Tue, 17 Nov 2026 19:26:51 +0000
+Date: Thu, 19 Nov 2026 10:33:12 +0000
 Description: Nuvia for Linux
 Label: Nuvia
 Origin: Nuvia
 Suite: stable
 MD5Sum:
- c32fe9a7adcee2e4663ea678ecf97147              163 Release
- 95fc714c1d770a6f15f99254d08f2c67             1456 main/binary-amd64/Packages
- 56456a5d721962ea58d7ee879b3580b2              850 main/binary-amd64/Packages.gz
+ 7bfeffa3548549a3c525d5f869b45676              163 Release
+ e2a7e4a8c7db95ae1a54f21381ed5686             2912 main/binary-amd64/Packages
+ 269b508dda572f26b24d9e18e408ba16             1064 main/binary-amd64/Packages.gz
 SHA1:
- 5a7afd5ad3b355a08fe83f15c0117da32a34d01c              163 Release
- e61b1f9597c82d4d288dcaad762b9b1f9efcacf5             1456 main/binary-amd64/Packages
- 882d36baea77a2d931e13ed611649401234f3600              850 main/binary-amd64/Packages.gz
+ 61b8daeb043988957f8022069579a6f8485d13d2              163 Release
+ 3dd90315ebc69c34fa5a20b8b7d52c95b9d75ef6             2912 main/binary-amd64/Packages
+ 3f0f4414b58b7301e77a1c5303c4fed7bebb8a82             1064 main/binary-amd64/Packages.gz
 SHA256:
- a95b57b26a42897375df69cfc695355522d0258fd0307840249d7f13864f5863              163 Release
- f3245068c92af1cca5571b1ec47ee8e6e4340dd62601bceeeaa71204f30929d6             1456 main/binary-amd64/Packages
- 3d2c4609da1f1afcb063c7551c041fd434b28a2c0cbe6f42972c253df5b9c8f9              850 main/binary-amd64/Packages.gz
+ f342866e3db34fa35fb414dfb128ae1e7ea7460d82a52634948923197dbca9a3              163 Release
+ bb2c0d4750c54c1561ed4340c68e4a56d66c8188bc2dffa2b98c5c347467a49f             2912 main/binary-amd64/Packages
+ beaeb0dada48ebbec83d5413ecec0abcebec0134ba3759d6195e1ed4a39b1073             1064 main/binary-amd64/Packages.gz
 SHA512:
- 15c14fdd6c06783e95b986150dee646f45654f8baff364e801718b8dbe1fd4819606c76aa1a3975e2ec79bad23f08441c902b91fde62099da9444777d73713bb              163 Release
- 99b260da014c165f815cf32cca6ddc63eb525f50b7beeb7888c12eb267b08cbf7ca232cc04499db59c7774a85d17befd528511797fea322f58e3e9b704735438             1456 main/binary-amd64/Packages
- cd783fb42e837112a2aa750468f07866c7d92cf0e9f59a317f5b133226b0d8a45e72332dd961562d730c2cfcd7a1ca441faa980b1738a38c9cab9e7fc3605067              850 main/binary-amd64/Packages.gz
+ 14d7c30d99e3fbab76ec2eebc4cf3b811ae28fa332cd2d3afbe285ac8b55385281997eeabedc05c203b7c81d8128c2691a9605e31724e2a4697568f09d1656e1              163 Release
+ 1bdc77c0dd11533f00cd79043dc7a031aff4ec90c04463d3cf5056b49078d6d5801e8e0069c6ab8baae7e89b958e352814bbe9cdc5ccab5eea5856c42cb8e76a             2912 main/binary-amd64/Packages
+ 27159438611d1f11478b7ef36a221a230ef382796a2b8577bd142e1426e37a3e7a4d9f7c7321a3d5788829800e352271de3042dbbca0164a63dd0f677eafaaf0             1064 main/binary-amd64/Packages.gz
